@@ -1,0 +1,136 @@
+# Site settings
+title: Ravi Shanker Singh
+twitter_username: Ravishankersin3
+name: Ravi Shanker Singh
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://ravishankersingh19.blogspot.com/
+ - title: GitHub
+   url: https://github.com/ravishankersingh19
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/6543034/ravi
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/ravishankersingh19/
+ - title: Twitter
+   url: https://twitter.com/ravishankersin3
+
+#Any buzzword skills you want to include
+skills:
+ - Python
+ - Django
+ - HTML
+ - CSS
+ - JS
+ - JQuery
+ - Ajax
+ - SQL
+ - REST
+ - Technical Architecture
+ - Machine learning
+ - Server Administation
+ - Network Administation
+ - Survilance CCTV Administarion
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#Work experience is required
+roles:
+ - title: Python Developer 
+   start: 2020
+   end: Ongoing
+   employer: Octal IT Solution  
+   description: Octal producing a range of innovative legal products. Products include <a href="https://www.octalsoftware.com/our-portfolio" taget="_blank">Portfolio</a>, <a href="https://www.octalsoftware.com" taget="_blank">Octal IT Solution </a>.
+ - title: Jr. Python Developer 
+   start: 2019
+   end: 2020
+   employer: CodePlanet Technologies
+   description: CodePlanet is a range of cutting edge technologies and techniques including Python,Machine Learning  on variety of Data Science techniques.
+ - title: IT Executive Engineer
+   start: 2018
+   end: 2019
+   employer: TheFootballLink Sports
+   description: TheFootballLink is a Sport traning and AI based organization in 2010. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+ - title: Desktop Engineer L2
+   start: 2016
+   end: 2018
+   employer: Wipro 
+   description: Working on a range of functional and technical roles, primarily working on client sites in Exl Services in Jaipur.
+
+#Education is required
+education:
+ - level: Bachelor of Technology (B.Tech)
+   date: 2016
+   subject: Information Technology
+   school: Rajasthan Technical University 
+  - level: Senior Secondary
+   date: 2012
+   subject: PCM 
+   school: Goverment Senior Secondary School Rawatbhata, Rajasthan 
+  - level: Higher Secondary
+   date: 2010
+   subject: All Subject
+   school: Goverment Senior Secondary School Begun, Rajasthan  
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/c7f2642a2c0153a975cb721e354ca457
+   courses:
+    - title: Databases and SQL for Data Science with Python
+      link: https://www.coursera.org/learn/sql-data-science/home/welcome
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/d719a2d0d946d59e1151bc10ec29f5/Specialization-Certificate-Emblem---IDS---600x600.png
+      date: July 2, 2020
+    - title: Tools for Data Science
+      link: https://www.coursera.org/learn/open-source-tools-for-data-science
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/d719a2d0d946d59e1151bc10ec29f5/Specialization-Certificate-Emblem---IDS---600x600.png
+      date: July 2, 2020  
+    - title: What is Data Science
+      link: https://www.coursera.org/learn/what-is-datascience
+      optionalimage:  https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/d719a2d0d946d59e1151bc10ec29f5/Specialization-Certificate-Emblem---IDS---600x600.png
+      date: June 30, 2020
+
+#This section is optional - embeds slideshows from speakerdeck
+# to get the speakerdeck ID copy the embed code and look for the data-it attribute
+# speakerdeck:
+#    profileurl: https://speakerdeck.com/robhinds
+#    talks:
+#     - title: Product Management for Engineers
+#       speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#       conference: API Conference, Berlin 2018
+#     - title: Agile Machine Learning - from Theory to Production
+#       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#       conference: W-JAX Conference, Munich 2017 (London 2017)
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - ravishankersingh19/ravishankersingh19.github.io
+ - ravishankersingh19/IntheMoney
+ - ravishankersingh19/Admin_dashboard
+ - ravishankersingh19/django-react-blogger
+ - ravishankersingh19/Vmarts_version-2.0
+ - ravishankersingh19/Device-Management-System
+ - ravishankersingh19/thecodingthunder
+ - ravishankersingh19/Fcube_Analysis
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/6543034/ravi
+   flairimageurl: https://i.stack.imgur.com/yRADs.jpg?s=48&amp;g=1
+
+intro: |
+  I am an engineer with 4 years experience working in technology. I have primarily worked on the Development, but have worked across a broad range of technologies there on: Python, Django, Shell Scripting and most recently ML. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery and most recently to React. <br/><br/>
+  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the PVM, I recognise that good code is contextual).<br/><br/>
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Django Developer</strong>: My current role uses Django as the primary language and have been building applications in Python for the last one years. I am familiar with a range of Python libraries, such as <a target="_blank" href="https://sunscrapers.com/blog/10-django-packages-you-should-know/"> Django Library </a> and <a target="_blank" href="https://data36.com/python-libraries-packages-data-scientists/"> Data Science Library</a>, as well as familiar with a range of <a target="_blank" href="https://www.edureka.co/blog/python-libraries/" >functional programming techniques available</a>.<br/><br/>
+   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
+   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Jenkins etc. I have experience with an array of testing tools and technologies.<br/><br/>
+   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Forntend, a variety of social APIs (Twitter etc) and cloud platforms such as GPC/Alibaba/AWS. <br/><br/>
+   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://http://ravishankersingh19.blogspot.com/">ravishankersingh19.blogspot.com/</a> (I am also a <a target='_blank' href="https://dzone.com/users/4510832/ravishankersingh19.html">DZone</a>)
