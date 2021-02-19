@@ -199,7 +199,10 @@ table {
 	border-right-width: 0px;
 	margin-bottom:20px;
 }
-
+.stack-img{
+    border-style: none;
+    max-width: 100%;
+}
 img {
 	border-style: none;
 	max-width: 50%;
