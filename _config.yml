@@ -120,7 +120,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/6543034/ravi
-   flairimageurl: https://i.stack.imgur.com/yRADs.jpg?s=48&amp;g=1
+   flairimageurl: https://stackoverflow.com/users/flair/6543034.png
 
 intro: |
   I am an engineer with 4 years experience working in technology. I have primarily worked on the Development, but have worked across a broad range of technologies there on: Python, Django, Shell Scripting and most recently ML. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery and most recently to React. <br/><br/>
